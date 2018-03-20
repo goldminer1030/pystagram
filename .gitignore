@@ -100,5 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+uploads/
 uploads/*
+.idea/
 .idea/*
